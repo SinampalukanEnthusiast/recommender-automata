@@ -11,7 +11,7 @@ const Navbar = () => {
     <div className="navbar-start pl-r">
       <div className="avatar">
         <div className="w-10 rounded ml-8">
-          <img src="/images/logo.png" alt="JU Logo"/>
+          <img src="/images/logoo.png" alt="JU Logo"/>
         </div>
       </div>
       <p className="ml-2 bg-[#FFDBCB] text-[#4D4D4D] font-semibold text-[30px] font-jacques">JONG UNS</p>
